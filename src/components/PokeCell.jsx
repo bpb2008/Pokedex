@@ -10,7 +10,7 @@ const PokeCell = ({ pokeClass, handleOnClick }) => {
       onClick={() => handleOnClick(id)}
       className="poke-cell"
       style={style}
-    ></button>
+    />
   );
 };
 
