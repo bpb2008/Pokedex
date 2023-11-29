@@ -1,5 +1,5 @@
 import React from "react";
-import "./styles/Pokelist.css";
+import "./styles/PokeList.css";
 import PokeCell from "./PokeCell";
 import { pokeClasses } from "../pokeClasses";
 
